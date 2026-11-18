@@ -1,0 +1,9 @@
+BISTRO APPETITUS DIGITAL
+
+1. Deschide repository-ul icristi24/bistro-appetitus-digital pe GitHub.
+2. Încarcă în rădăcina branch-ului main TOATE fișierele din arhivă, nu arhiva ZIP. Confirmă Commit changes.
+3. Testează https://icristi24.github.io/bistro-appetitus-digital/
+4. TV 1: /tv1.html, TV 2: /tv2.html, TV 3: /tv3.html, TV 4: /tv4.html
+5. Admin: /admin.html — modifică JSON, descarcă data.json, apoi încarcă-l în GitHub și confirmă Commit changes.
+6. Reclamele verifică datele la fiecare 60 secunde; publicarea GitHub Pages poate dura câteva minute.
+ATENȚIE: Admin nu publică automat și nu are autentificare. Verifică prețurile și preparatele înainte de utilizare.

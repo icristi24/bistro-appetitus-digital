@@ -1,0 +1,38 @@
+{
+  "daily": {
+    "price": 30,
+    "tripePrice": 32,
+    "description": "Ciorbă + fel principal + salată + chiflă"
+  },
+  "soups": [
+    {
+      "name": "Ciorbă de perișoare",
+      "price": 16
+    },
+    {
+      "name": "Ciorbă rădăuțeană",
+      "price": 15
+    },
+    {
+      "name": "Ciorbă de burtă",
+      "price": 19
+    }
+  ],
+  "mains": [
+    {
+      "name": "Tochitură cu mămăligă",
+      "price": 20
+    },
+    {
+      "name": "Crispy de pui cu cartofi prăjiți",
+      "price": 20
+    }
+  ],
+  "offers": {
+    "phone": "0734 617 486",
+    "hours": "10:00 – 13:30",
+    "free": "Livrare gratuită la minimum 2 meniuri",
+    "takeaway": "Toate preparatele se pot comanda la pachet",
+    "city": "Ploiești"
+  }
+}
